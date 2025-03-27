@@ -27,7 +27,7 @@
     "@mui/material": "^5.15.19",
     "@mui/material-nextjs": "^5.15.11",
     "dwolla-v2": "^3.4.0",
-    "next": "14.2.4",
+    "next": "14.2.24",
     "react": "^18",
     "react-dom": "^18"
   },
