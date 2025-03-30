@@ -35,7 +35,7 @@
         "@mxenabled/web-widget-sdk": "0.0.10",
         "dwolla-v2": "4.0.0-ts-alpha.0",
         "form-data": "^4.0.0",
-        "mx-platform-node": "^0.11.2",
+        "mx-platform-node": "^0.44.0",
         "next": "12.3.1",
         "react": "18.2.0",
         "react-dom": "18.3.1",
