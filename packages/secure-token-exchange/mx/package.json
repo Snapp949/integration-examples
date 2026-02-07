@@ -32,7 +32,7 @@
         "@mui/icons-material": "^5.10.6",
         "@mui/lab": "5.0.0-alpha.102",
         "@mui/material": "^5.10.8",
-        "@mxenabled/web-widget-sdk": "0.0.10",
+        "@mxenabled/web-widget-sdk": "0.0.13",
         "dwolla-v2": "4.0.0-ts-alpha.0",
         "form-data": "^4.0.0",
         "mx-platform-node": "^0.11.2",
